@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f94655220865f346835eded0e676dc1, type: 3}
+  m_Name: Sword_02
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: b20833c3f4daa844193e625c05270f7d, type: 3}
+  itemName: Void Reaper
+  modelPrefab: {fileID: 2029740774324144272, guid: a0019389c34d80d41b8f9611cde7e4c3, type: 3}
+  isUnarmed: 0
+  baseDamage: 25
+  criticalDamageMultiplier: 3
+  poiseBreak: 20
+  offensivePoiseBonus: 25
+  physicalDamageAbsorption: 0
+  Right_Hand_Idle: Right_Arm_Idle_01
+  Left_Hand_Idle: Left_Arm_Idle_01
+  TH_Idle: TH_Idle_01
+  OH_Light_Attack_01: OH_Light_Attack_01
+  OH_Light_Attack_02: OH_Light_Attack_02
+  OH_Heavy_Attack_01: OH_Heavy_Attack_01
+  TH_Light_Attack_01: TH_Light_Attack_01
+  TH_Light_Attack_02: TH_Light_Attack_02
+  TH_Heavy_Attack_01: TH_Heavy_Attack_01
+  weapon_art: 
+  baseStamina: 15
+  lightAttackMultiplier: 1
+  heavyAttackMultiplier: 2
+  isMagicCaster: 0
+  isFaithCaster: 0
+  isPyroCaster: 0
+  isMeleeWeapon: 1
+  isShieldWeapon: 0

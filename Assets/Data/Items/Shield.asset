@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f94655220865f346835eded0e676dc1, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 702bd64ba64f79540b66fa6186f94cd4, type: 3}
+  itemName: Shield
+  modelPrefab: {fileID: 4745316330984836946, guid: 4fa21a611383300429f024595939a469, type: 3}
+  isUnarmed: 0
+  baseDamage: 25
+  criticalDamageMultiplier: 3
+  physicalDamageAbsorption: 50
+  Right_Hand_Idle: Right_Arm_Idle_01
+  Left_Hand_Idle: Left_Arm_Idle_01
+  TH_Idle: TH_Idle_01
+  OH_Light_Attack_01: 
+  OH_Light_Attack_02: 
+  OH_Heavy_Attack_01: 
+  TH_Light_Attack_01: 
+  TH_Light_Attack_02: 
+  TH_Heavy_Attack_01: 
+  weapon_art: Parry
+  baseStamina: 0
+  lightAttackMultiplier: 0
+  heavyAttackMultiplier: 0
+  isMagicCaster: 0
+  isFaithCaster: 0
+  isPyroCaster: 0
+  isMeleeWeapon: 0
+  isShieldWeapon: 1
